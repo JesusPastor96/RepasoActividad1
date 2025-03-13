@@ -1,0 +1,4 @@
+configuracion_local.sh  # No subir archivos de configuración local
+archivos_personales/  # No subir la carpeta archivos_personales y su contenido
+*.psd  # Todos los archivos de Photoshop
+*.xcf  # Todos los archivos de GIMP
